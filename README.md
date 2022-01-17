@@ -1,5 +1,5 @@
 # Musteri-Segmentasyonu
-yapay_zeka
+
 Müşteri bölümleme çalışmasının amacı; pazarlama, hizmet ve satış planını çeşitli müşteri gruplarının ihtiyaçlarına göre ayarlamaktır.
 Müşteri bölümleme sayesinde, her müşterinin davranış ve ihtiyaçlarında benzer özellikler bulunur. 
 Bölümleme sonucunda çeşitli stratejiler geliştirilerek talepleri karşılamak için müşteriler gruplaştırılır. 
